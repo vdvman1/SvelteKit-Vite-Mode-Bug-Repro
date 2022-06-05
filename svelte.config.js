@@ -8,7 +8,7 @@ const config = {
 		}),
 
 		vite: {
-			mode: process.env.VITE_MODE,
+			mode: "custom",
 		},
 	}
 };
